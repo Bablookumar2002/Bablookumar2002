@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Babloo</h1>
-<h3 align="center">A passionate frontend developer,Problem solving from India</h3>
+<h3 align="center">I am a passionate frontend developer from India, with a keen interest in problem-solving and creating intuitive user experiences. My goal is to develop efficient and innovative solutions that enhance the user experience and drive success.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bablookumar2002&label=Profile%20views&color=0e75b6&style=flat" alt="bablookumar2002" /> </p>
 
