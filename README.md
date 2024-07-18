@@ -35,9 +35,7 @@
     <a href="https://codeforces.com/profile/bablookumar05022002b@gmail.com" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bablookumar05022002b@gmail.com" height="30" width="40" />
     </a>
-    <a href="https://www.leetcode.com/babloo_kumar22" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="babloo_kumar22" height="30" width="40" />
-    </a>
+    
     <a href="https://auth.geeksforgeeks.org/user/bablookumarbdqm" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bablookumarbdqm" height="30" width="40" />
     </a>
